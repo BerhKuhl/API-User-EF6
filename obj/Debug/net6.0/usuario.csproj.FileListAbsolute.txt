@@ -1,0 +1,122 @@
+C:\Workspace\usuario\bin\Debug\net6.0\appsettings.Development.json
+C:\Workspace\usuario\bin\Debug\net6.0\appsettings.json
+C:\Workspace\usuario\bin\Debug\net6.0\usuario.exe
+C:\Workspace\usuario\bin\Debug\net6.0\usuario.deps.json
+C:\Workspace\usuario\bin\Debug\net6.0\usuario.runtimeconfig.json
+C:\Workspace\usuario\bin\Debug\net6.0\usuario.dll
+C:\Workspace\usuario\bin\Debug\net6.0\usuario.pdb
+C:\Workspace\usuario\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Workspace\usuario\obj\Debug\net6.0\usuario.csproj.AssemblyReference.cache
+C:\Workspace\usuario\obj\Debug\net6.0\usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\usuario\obj\Debug\net6.0\usuario.AssemblyInfoInputs.cache
+C:\Workspace\usuario\obj\Debug\net6.0\usuario.AssemblyInfo.cs
+C:\Workspace\usuario\obj\Debug\net6.0\usuario.csproj.CoreCompileInputs.cache
+C:\Workspace\usuario\obj\Debug\net6.0\usuario.MvcApplicationPartsAssemblyInfo.cs
+C:\Workspace\usuario\obj\Debug\net6.0\usuario.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\usuario\obj\Debug\net6.0\staticwebassets.build.json
+C:\Workspace\usuario\obj\Debug\net6.0\staticwebassets.development.json
+C:\Workspace\usuario\obj\Debug\net6.0\scopedcss\bundle\usuario.styles.css
+C:\Workspace\usuario\obj\Debug\net6.0\usuario.csproj.CopyComplete
+C:\Workspace\usuario\obj\Debug\net6.0\usuario.dll
+C:\Workspace\usuario\obj\Debug\net6.0\refint\usuario.dll
+C:\Workspace\usuario\obj\Debug\net6.0\usuario.pdb
+C:\Workspace\usuario\obj\Debug\net6.0\usuario.genruntimeconfig.cache
+C:\Workspace\usuario\obj\Debug\net6.0\ref\usuario.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Humanizer.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\usuario\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\usuario\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Workspace\usuario\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Workspace\usuario\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\usuario\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Workspace\usuario\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\usuario\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Workspace\usuario\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Workspace\usuario\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\usuario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\usuario\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\usuario\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\usuario\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\usuario\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\usuario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\usuario\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Workspace\usuario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Workspace\usuario\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Workspace\usuario\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\usuario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\appsettings.Development.json
+C:\Workspace\API User EF6\bin\Debug\net6.0\appsettings.json
+C:\Workspace\API User EF6\bin\Debug\net6.0\usuario.exe
+C:\Workspace\API User EF6\bin\Debug\net6.0\usuario.deps.json
+C:\Workspace\API User EF6\bin\Debug\net6.0\usuario.runtimeconfig.json
+C:\Workspace\API User EF6\bin\Debug\net6.0\usuario.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\usuario.pdb
+C:\Workspace\API User EF6\bin\Debug\net6.0\Humanizer.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\API User EF6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Workspace\API User EF6\obj\Debug\net6.0\usuario.csproj.AssemblyReference.cache
+C:\Workspace\API User EF6\obj\Debug\net6.0\usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\API User EF6\obj\Debug\net6.0\usuario.AssemblyInfoInputs.cache
+C:\Workspace\API User EF6\obj\Debug\net6.0\usuario.AssemblyInfo.cs
+C:\Workspace\API User EF6\obj\Debug\net6.0\usuario.csproj.CoreCompileInputs.cache
+C:\Workspace\API User EF6\obj\Debug\net6.0\usuario.MvcApplicationPartsAssemblyInfo.cs
+C:\Workspace\API User EF6\obj\Debug\net6.0\usuario.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\API User EF6\obj\Debug\net6.0\staticwebassets.build.json
+C:\Workspace\API User EF6\obj\Debug\net6.0\staticwebassets.development.json
+C:\Workspace\API User EF6\obj\Debug\net6.0\scopedcss\bundle\usuario.styles.css
+C:\Workspace\API User EF6\obj\Debug\net6.0\usuario.csproj.CopyComplete
+C:\Workspace\API User EF6\obj\Debug\net6.0\usuario.dll
+C:\Workspace\API User EF6\obj\Debug\net6.0\refint\usuario.dll
+C:\Workspace\API User EF6\obj\Debug\net6.0\usuario.pdb
+C:\Workspace\API User EF6\obj\Debug\net6.0\usuario.genruntimeconfig.cache
+C:\Workspace\API User EF6\obj\Debug\net6.0\ref\usuario.dll
